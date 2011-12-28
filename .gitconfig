@@ -1,0 +1,13 @@
+[core]
+	excludesfile = /Users/raymundt/.gitignore_global
+
+[merge]
+	tool = opendiff
+
+[alias]
+	co = checkout
+	ci = commit
+	rb = rebase
+	st = status
+[color]
+	ui = auto
